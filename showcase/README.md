@@ -104,6 +104,43 @@ macOS平台的完整部署和使用指南：
 - **videos/**: 演示和教程视频
 - **podcasts/**: 播客内容和脚本
 
+### 🌐 生态系统中心
+**位置**: `ecosystem/`
+
+PowerAutomation v4.1的完整生态系统实现：
+
+- **商业化平台**: [commercialization_platform.py](ecosystem/commercialization/commercialization_platform.py)
+- **开发者生态系统**: [developer_ecosystem_manager.py](ecosystem/developer_ecosystem/developer_ecosystem_manager.py)
+- **SDK管理器**: [sdk_manager.py](ecosystem/developer_ecosystem/sdk_manager.py)
+- **插件系统**: [plugin_system.py](ecosystem/developer_ecosystem/plugin_system.py)
+
+### 🎯 演示文稿中心
+**位置**: `powerautomation-presentation/`
+
+完整的PowerAutomation演示文稿和技术文档：
+
+#### 🎪 主要演示文稿
+- **平台概览**: [platform_overview.html](powerautomation-presentation/platform_overview.html)
+- **AI生态系统**: [ai_ecosystem.html](powerautomation-presentation/ai_ecosystem.html)
+- **Zen MCP工具**: [zen_mcp_tools.html](powerautomation-presentation/zen_mcp_tools.html)
+- **企业级功能**: [enterprise_features.html](powerautomation-presentation/enterprise_features.html)
+- **性能指标**: [performance_metrics.html](powerautomation-presentation/performance_metrics.html)
+
+#### 📚 技术文档库 (`docs/`)
+包含50+个详细的技术分析和实现文档：
+- **架构分析**: PowerAutomation架构设计和分析
+- **组件集成**: 各组件的集成方案和实现
+- **MCP分析**: MCP相关的技术分析和集成
+- **竞争分析**: 与其他解决方案的对比分析
+- **开发里程碑**: 项目开发的重要里程碑记录
+
+#### 🎨 平台演示 (`platform-presentation/`)
+专业的平台演示文稿集合：
+- **核心架构**: [core_architecture.html](powerautomation-presentation/platform-presentation/core_architecture.html)
+- **技术优势**: [technical_advantages.html](powerautomation-presentation/platform-presentation/technical_advantages.html)
+- **应用场景**: [application_scenarios.html](powerautomation-presentation/platform-presentation/application_scenarios.html)
+- **演示展示**: [demo_showcase.html](powerautomation-presentation/platform-presentation/demo_showcase.html)
+
 ## 🎯 核心特性概览
 
 ### 🎬 录制即测试 (Record-as-Test)
@@ -184,4 +221,43 @@ macOS平台的完整部署和使用指南：
 **🎪 PowerAutomation v4.1 展示中心 - 探索AI自动化的无限可能！**
 
 *在这里，您可以全面了解PowerAutomation v4.1的技术实力、商业价值和未来愿景。让我们一起重新定义AI自动化的未来！*
+
+
+
+### 🌐 生态系统中心
+**位置**: `ecosystem/`
+
+PowerAutomation v4.1的完整生态系统实现：
+
+- **商业化平台**: [commercialization_platform.py](ecosystem/commercialization/commercialization_platform.py)
+- **开发者生态系统**: [developer_ecosystem_manager.py](ecosystem/developer_ecosystem/developer_ecosystem_manager.py)
+- **SDK管理器**: [sdk_manager.py](ecosystem/developer_ecosystem/sdk_manager.py)
+- **插件系统**: [plugin_system.py](ecosystem/developer_ecosystem/plugin_system.py)
+
+### 🎯 演示文稿中心
+**位置**: `powerautomation-presentation/`
+
+完整的PowerAutomation演示文稿和技术文档：
+
+#### 🎪 主要演示文稿
+- **平台概览**: [platform_overview.html](powerautomation-presentation/platform_overview.html)
+- **AI生态系统**: [ai_ecosystem.html](powerautomation-presentation/ai_ecosystem.html)
+- **Zen MCP工具**: [zen_mcp_tools.html](powerautomation-presentation/zen_mcp_tools.html)
+- **企业级功能**: [enterprise_features.html](powerautomation-presentation/enterprise_features.html)
+- **性能指标**: [performance_metrics.html](powerautomation-presentation/performance_metrics.html)
+
+#### 📚 技术文档库 (`docs/`)
+包含50+个详细的技术分析和实现文档：
+- **架构分析**: PowerAutomation架构设计和分析
+- **组件集成**: 各组件的集成方案和实现
+- **MCP分析**: MCP相关的技术分析和集成
+- **竞争分析**: 与其他解决方案的对比分析
+- **开发里程碑**: 项目开发的重要里程碑记录
+
+#### 🎨 平台演示 (`platform-presentation/`)
+专业的平台演示文稿集合：
+- **核心架构**: [core_architecture.html](powerautomation-presentation/platform-presentation/core_architecture.html)
+- **技术优势**: [technical_advantages.html](powerautomation-presentation/platform-presentation/technical_advantages.html)
+- **应用场景**: [application_scenarios.html](powerautomation-presentation/platform-presentation/application_scenarios.html)
+- **演示展示**: [demo_showcase.html](powerautomation-presentation/platform-presentation/demo_showcase.html)
 
