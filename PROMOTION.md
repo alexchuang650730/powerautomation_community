@@ -109,7 +109,7 @@
 #AI #Automation #Testing #OpenSource
 #RecordAsTest #ClaudeIntegration
 
-👉 https://github.com/alexchuang650730/powerautomation-showcase
+👉 https://github.com/alexchuang650730/powerautomation_community
 ```
 
 ### LinkedIn推广
@@ -452,16 +452,16 @@ PowerAutomation v4.1现已在GitHub开源发布，支持macOS平台，Windows和
 ## 📞 联系和支持
 
 ### 推广团队联系方式
-- **推广负责人**: marketing@powerautomation.com
-- **媒体联系**: press@powerautomation.com
-- **合作伙伴**: partners@powerautomation.com
-- **社区管理**: community@powerautomation.com
+- **推广负责人**: marketing@gmail.com
+- **媒体联系**: press@gmail.com
+- **合作伙伴**: partners@gmail.com
+- **社区管理**: community@gmail.com
 
 ### 推广资源
-- **媒体资料包**: https://powerautomation.com/press-kit
-- **品牌指南**: https://powerautomation.com/brand-guidelines
-- **演示视频**: https://powerautomation.com/demos
-- **案例研究**: https://powerautomation.com/case-studies
+- **媒体资料包**: https://github.com/alexchuang650730/powerautomation_community/press-kit
+- **品牌指南**: https://github.com/alexchuang650730/powerautomation_community/brand-guidelines
+- **演示视频**: https://github.com/alexchuang650730/powerautomation_community/demos
+- **案例研究**: https://github.com/alexchuang650730/powerautomation_community/case-studies
 
 ---
 

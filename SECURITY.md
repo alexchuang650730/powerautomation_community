@@ -18,12 +18,12 @@ PowerAutomation团队非常重视项目的安全性。如果您发现了安全�
 如果您发现了安全漏洞，请**不要**通过公开的GitHub Issues报告。相反，请通过以下方式私密地报告：
 
 #### 首选方式：GitHub安全报告
-1. 访问我们的[GitHub安全报告页面](https://github.com/alexchuang650730/powerautomation-showcase/security/advisories/new)
+1. 访问我们的[GitHub安全报告页面](https://github.com/alexchuang650730/powerautomation_community/security/advisories/new)
 2. 点击"Report a vulnerability"
 3. 填写详细的漏洞信息
 
 #### 备选方式：邮件报告
-发送邮件至：**security@powerautomation.com**
+发送邮件至：**security@gmail.com**
 
 邮件主题：`[SECURITY] 安全漏洞报告 - [简短描述]`
 
@@ -243,14 +243,14 @@ SECURITY_CONFIG = {
 ## 📞 联系我们
 
 ### 🔒 安全团队
-- **邮箱**：security@powerautomation.com
-- **PGP密钥**：[下载公钥](https://powerautomation.com/pgp-key.asc)
+- **邮箱**：security@gmail.com
+- **PGP密钥**：[下载公钥](https://github.com/alexchuang650730/powerautomation_community/pgp-key.asc)
 - **响应时间**：24小时内确认收到
 
 ### 💬 一般咨询
-- **GitHub Issues**：[一般问题](https://github.com/alexchuang650730/powerautomation-showcase/issues)
-- **邮箱**：support@powerautomation.com
-- **社区讨论**：[GitHub Discussions](https://github.com/alexchuang650730/powerautomation-showcase/discussions)
+- **GitHub Issues**：[一般问题](https://github.com/alexchuang650730/powerautomation_community/issues)
+- **邮箱**：support@gmail.com
+- **社区讨论**：[GitHub Discussions](https://github.com/alexchuang650730/powerautomation_community/discussions)
 
 ---
 

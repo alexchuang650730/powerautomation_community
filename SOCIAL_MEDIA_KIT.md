@@ -32,7 +32,7 @@
 🛠️ 50+专业工具 - 覆盖开发全流程
 🏢 企业级功能 - 大规模团队协作
 
-立即体验：https://github.com/alexchuang650730/powerautomation-showcase
+立即体验：https://github.com/alexchuang650730/powerautomation_community
 
 #AI #Automation #Testing #OpenSource #RecordAsTest
 ```
@@ -48,7 +48,7 @@
 ✅ 300%效率提升 → 70%Bug减少
 
 体验未来的测试方式 👇
-https://github.com/alexchuang650730/powerautomation-showcase
+https://github.com/alexchuang650730/powerautomation_community
 
 #RecordAsTest #ZeroCode #TestAutomation
 ```
@@ -187,7 +187,7 @@ PowerAutomation v4.1 =
 
 [50-60秒] 行动号召
 "立即下载，开启AI自动化之旅
-GitHub: powerautomation-showcase"
+GitHub: powerautomation_community"
 ```
 
 ### 2. 录制即测试演示视频 (3分钟)

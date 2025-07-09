@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/version-4.1.0-blue.svg?style=for-the-badge)](https://github.com/alexchuang650730/powerautomation-showcase)
+[![Version](https://img.shields.io/badge/version-4.1.0-blue.svg?style=for-the-badge)](https://github.com/alexchuang650730/powerautomation_community)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Multi--Platform-orange.svg?style=for-the-badge)](https://github.com/alexchuang650730/powerautomation-showcase)
-[![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen.svg?style=for-the-badge)](https://github.com/alexchuang650730/powerautomation-showcase)
+[![Platform](https://img.shields.io/badge/platform-Multi--Platform-orange.svg?style=for-the-badge)](https://github.com/alexchuang650730/powerautomation_community)
+[![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen.svg?style=for-the-badge)](https://github.com/alexchuang650730/powerautomation_community)
 
 **🎯 重新定义AI自动化的未来**
 
@@ -282,15 +282,15 @@ docker run -p 8080:8080 powerautomation/claudeditor:v4.1
 
 ### 🤝 参与方式
 - **⭐ Star项目**: 支持项目发展
-- **🐛 报告问题**: [GitHub Issues](https://github.com/alexchuang650730/powerautomation-showcase/issues)
-- **💡 功能建议**: [GitHub Discussions](https://github.com/alexchuang650730/powerautomation-showcase/discussions)
+- **🐛 报告问题**: [GitHub Issues](https://github.com/alexchuang650730/powerautomation_community/issues)
+- **💡 功能建议**: [GitHub Discussions](https://github.com/alexchuang650730/powerautomation_community/discussions)
 - **🔀 贡献代码**: [贡献指南](CONTRIBUTING.md)
 
 ### 📞 联系我们
-- **📧 邮箱**: support@powerautomation.com
+- **📧 邮箱**: support@gmail.com
 - **💬 微信群**: 扫码加入技术交流群
-- **🐦 Twitter**: [@PowerAutomation](https://twitter.com/powerautomation)
-- **📺 YouTube**: [PowerAutomation频道](https://youtube.com/powerautomation)
+- **🐦 Twitter**: [@PowerAutomation](https://github.com/alexchuang650730/powerautomation_community/discussions)
+- **📺 YouTube**: [PowerAutomation频道](https://github.com/alexchuang650730/powerautomation_community/wiki)
 
 ### 🏷️ 标签
 `ai-automation` `record-as-test` `claude-integration` `zero-code-testing` `enterprise-collaboration` `mcp-tools` `ai-ecosystem` `productivity` `development-tools` `testing-framework`
@@ -321,11 +321,11 @@ docker run -p 8080:8080 powerautomation/claudeditor:v4.1
 
 *重新定义AI自动化的未来*
 
-[![GitHub stars](https://img.shields.io/github/stars/alexchuang650730/powerautomation-showcase?style=social)](https://github.com/alexchuang650730/powerautomation-showcase/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/alexchuang650730/powerautomation-showcase?style=social)](https://github.com/alexchuang650730/powerautomation-showcase/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/alexchuang650730/powerautomation-showcase?style=social)](https://github.com/alexchuang650730/powerautomation-showcase/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/alexchuang650730/powerautomation_community?style=social)](https://github.com/alexchuang650730/powerautomation_community/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/alexchuang650730/powerautomation_community?style=social)](https://github.com/alexchuang650730/powerautomation_community/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/alexchuang650730/powerautomation_community?style=social)](https://github.com/alexchuang650730/powerautomation_community/watchers)
 
-[🌟 立即Star支持项目](https://github.com/alexchuang650730/powerautomation-showcase) • [🚀 开始使用](https://github.com/alexchuang650730/aicore0707/tree/main/deployment)
+[🌟 立即Star支持项目](https://github.com/alexchuang650730/powerautomation_community) • [🚀 开始使用](https://github.com/alexchuang650730/aicore0707/tree/main/deployment)
 
 </div>
 

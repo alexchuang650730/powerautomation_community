@@ -8,7 +8,7 @@
 最简单的支持方式就是给项目一个Star！这能帮助更多人发现PowerAutomation。
 
 ### 2. 🐛 报告Bug
-发现问题？请通过[GitHub Issues](https://github.com/alexchuang650730/powerautomation-showcase/issues)报告：
+发现问题？请通过[GitHub Issues](https://github.com/alexchuang650730/powerautomation_community/issues)报告：
 - 使用Bug报告模板
 - 提供详细的复现步骤
 - 包含环境信息和错误日志
@@ -41,11 +41,11 @@
 
 ```bash
 # 1. Fork并克隆仓库
-git clone https://github.com/YOUR_USERNAME/powerautomation-showcase.git
-cd powerautomation-showcase
+git clone https://github.com/YOUR_USERNAME/powerautomation_community.git
+cd powerautomation_community
 
 # 2. 设置上游仓库
-git remote add upstream https://github.com/alexchuang650730/powerautomation-showcase.git
+git remote add upstream https://github.com/alexchuang650730/powerautomation_community.git
 
 # 3. 创建虚拟环境
 python -m venv venv
@@ -234,9 +234,9 @@ docs/
 ## 📞 获取帮助
 
 ### 联系方式
-- **GitHub Discussions**: [技术讨论](https://github.com/alexchuang650730/powerautomation-showcase/discussions)
-- **GitHub Issues**: [问题报告](https://github.com/alexchuang650730/powerautomation-showcase/issues)
-- **邮箱**: contribute@powerautomation.com
+- **GitHub Discussions**: [技术讨论](https://github.com/alexchuang650730/powerautomation_community/discussions)
+- **GitHub Issues**: [问题报告](https://github.com/alexchuang650730/powerautomation_community/issues)
+- **邮箱**: contribute@gmail.com
 - **微信群**: 扫码加入开发者群
 
 ### 开发者资源

@@ -245,10 +245,10 @@ A: 优化建议：
 - [🛠️ 高级配置指南](advanced-configuration.md)
 
 ### 加入社区
-- [💬 GitHub Discussions](https://github.com/alexchuang650730/powerautomation-showcase/discussions)
-- [🐛 报告问题](https://github.com/alexchuang650730/powerautomation-showcase/issues)
+- [💬 GitHub Discussions](https://github.com/alexchuang650730/powerautomation_community/discussions)
+- [🐛 报告问题](https://github.com/alexchuang650730/powerautomation_community/issues)
 - [📧 邮件支持](mailto:support@powerautomation.com)
-- [🐦 关注Twitter](https://twitter.com/powerautomation)
+- [🐦 关注Twitter](https://github.com/alexchuang650730/powerautomation_community/discussions)
 
 ### 贡献项目
 - [🤝 贡献指南](../CONTRIBUTING.md)
