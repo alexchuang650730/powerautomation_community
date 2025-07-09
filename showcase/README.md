@@ -1,8 +1,8 @@
 # 🎪 PowerAutomation v4.1 展示中心
 
-欢迎来到PowerAutomation v4.1的展示中心！这里汇集了项目的所有重要文档、指南和展示材料。
+欢迎来到PowerAutomation v4.1的展示中心！这里汇集了项目的所有重要文档、指南、展示材料、商业运营和推广资源。
 
-## 📚 文档导航
+## 📚 完整目录导航
 
 ### 🚀 项目详细介绍
 **位置**: `detailed-introduction/`
@@ -37,6 +37,72 @@ macOS平台的完整部署和使用指南：
 完整的推广策略和启动指南：
 
 - **推广启动指南**: [PowerAutomation v4.1 推广启动指南](PowerAutomation_v4.1_推广启动指南.md)
+
+### 💼 商业运营中心
+**位置**: `business/`
+
+所有商业运营相关的文件和管理：
+
+- **商业运营概览**: [Business README](business/README.md)
+- **文件组织指南**: [商业文件组织指南](BUSINESS_ORGANIZATION.md)
+
+#### 📈 营销中心 (`business/marketing/`)
+- **campaigns/**: 营销活动策划和执行
+- **content/**: 内容营销和SEO优化  
+- **social-media/**: 社交媒体管理和推广
+- **events/**: 活动管理和会议参展
+- **analytics/**: 营销数据分析和优化
+
+#### 💰 销售中心 (`business/sales/`)
+- **proposals/**: 客户提案和解决方案
+- **contracts/**: 合同模板和法律文件
+- **presentations/**: 销售演示和产品展示
+- **case-studies/**: 客户成功案例和推荐
+
+#### 🤝 合作伙伴中心 (`business/partnerships/`)
+- **agreements/**: 合作协议和法律文件
+- **integrations/**: 技术集成和API合作
+- **channel-partners/**: 渠道伙伴管理
+
+#### ⚖️ 法务中心 (`business/legal/`)
+- **licenses/**: 许可证管理和合规
+- **compliance/**: 法规遵循和认证
+- **privacy/**: 隐私保护和数据安全
+
+#### 💵 财务中心 (`business/finance/`)
+- **pricing/**: 定价策略和模型
+- **revenue/**: 收入管理和分析
+- **forecasts/**: 财务预测和规划
+
+### 👥 社区管理中心
+**位置**: `community/`
+
+开发者社区和用户社区管理：
+
+- **developer-program/**: 开发者计划和激励
+- **events/**: 社区活动和聚会
+- **forums/**: 论坛管理和规则
+- **feedback/**: 用户反馈和建议
+
+### 📋 资源中心
+**位置**: `resources/`
+
+各种模板、工具和指南：
+
+- **templates/**: 文档和邮件模板
+- **assets/**: 品牌素材和图片
+- **tools/**: 营销和分析工具
+- **guides/**: 最佳实践指南
+
+### 📰 媒体中心
+**位置**: `media/`
+
+所有媒体和宣传材料：
+
+- **press-releases/**: 新闻稿和公告
+- **articles/**: 技术和行业文章
+- **videos/**: 演示和教程视频
+- **podcasts/**: 播客内容和脚本
 
 ## 🎯 核心特性概览
 
