@@ -1,0 +1,33 @@
+# GitHub赞助配置
+# PowerAutomation v4.1 项目赞助
+
+# GitHub赞助
+github: [alexchuang650730]
+
+# Patreon赞助
+# patreon: powerautomation
+
+# Open Collective赞助
+# open_collective: powerautomation
+
+# Ko-fi赞助
+# ko_fi: powerautomation
+
+# Tidelift赞助
+# tidelift: pypi/powerautomation
+
+# 社区基金
+# community_bridge: powerautomation
+
+# Liberapay赞助
+# liberapay: powerautomation
+
+# IssueHunt赞助
+# issuehunt: alexchuang650730
+
+# 自定义链接
+custom: [
+  "https://powerautomation.com/sponsor",
+  "https://powerautomation.com/enterprise"
+]
+
