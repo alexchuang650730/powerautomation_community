@@ -23,7 +23,7 @@ PowerAutomation团队非常重视项目的安全性。如果您发现了安全�
 3. 填写详细的漏洞信息
 
 #### 备选方式：邮件报告
-发送邮件至：**security@gmail.com**
+发送邮件至：**alexchuang650730@gmail.com**
 
 邮件主题：`[SECURITY] 安全漏洞报告 - [简短描述]`
 
@@ -243,13 +243,13 @@ SECURITY_CONFIG = {
 ## 📞 联系我们
 
 ### 🔒 安全团队
-- **邮箱**：security@gmail.com
+- **邮箱**：alexchuang650730@gmail.com
 - **PGP密钥**：[下载公钥](https://github.com/alexchuang650730/powerautomation_community/pgp-key.asc)
 - **响应时间**：24小时内确认收到
 
 ### 💬 一般咨询
 - **GitHub Issues**：[一般问题](https://github.com/alexchuang650730/powerautomation_community/issues)
-- **邮箱**：support@gmail.com
+- **邮箱**：alexchuang650730@gmail.com
 - **社区讨论**：[GitHub Discussions](https://github.com/alexchuang650730/powerautomation_community/discussions)
 
 ---

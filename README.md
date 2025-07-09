@@ -287,7 +287,7 @@ docker run -p 8080:8080 powerautomation/claudeditor:v4.1
 - **🔀 贡献代码**: [贡献指南](CONTRIBUTING.md)
 
 ### 📞 联系我们
-- **📧 邮箱**: support@gmail.com
+- **📧 邮箱**: alexchuang650730@gmail.com
 - **💬 微信群**: 扫码加入技术交流群
 - **🐦 Twitter**: [@PowerAutomation](https://github.com/alexchuang650730/powerautomation_community/discussions)
 - **📺 YouTube**: [PowerAutomation频道](https://github.com/alexchuang650730/powerautomation_community/wiki)
